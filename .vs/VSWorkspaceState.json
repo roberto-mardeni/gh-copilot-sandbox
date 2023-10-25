@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\c#"
+    "\\c#",
+    "\\iac",
+    "\\java",
+    "\\js",
+    "\\php",
+    "\\python"
   ],
-  "SelectedNode": "\\c#\\sample.cs",
+  "SelectedNode": "\\js\\sample.js",
   "PreviewInSolutionExplorer": false
 }
